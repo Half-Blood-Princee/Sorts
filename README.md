@@ -9,5 +9,6 @@ docker-compose up -d
 ___
 >Bubble sort  
 >QuickSort  
+>Insertion sort  
 > Another in progress ...
 ___
